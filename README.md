@@ -9,6 +9,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahaspecter&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahaspecter&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://visitcount.itsvg.in/api?id= Aymane&icon=0&color=0)
-
 
