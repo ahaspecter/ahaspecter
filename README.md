@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on OSs <br>👯 I’m looking to collaborate on software/video games development <br>🌱 I’m currently learning lean manufacturing<br>💬 Ask me about hardware/embedded systems<br>⚡ Available on weekends only.
+🔭 I’m currently working on OSs <br>👯 I’m looking to collaborate on software/video games development <br>🌱 I’m currently learning lean manufacturing<br>💬 Ask me about hardware/embedded systems<br>⚡ Available only on weekends.
 
 
 # 💻 Tech Stack:
