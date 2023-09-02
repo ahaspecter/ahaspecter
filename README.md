@@ -2,7 +2,7 @@
 💬 Hardware/Embedded system engineering. 
 💬 Informations system engineering. 
 
-⚡ Available monday, wednesday and friday: my discord pseudo: __aymane__
+⚡ Available monday, wednesday and friday: my discord pseudo: /__aymane_/_
 
 
 # 💻 Tech Stack:
