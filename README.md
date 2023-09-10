@@ -1,6 +1,7 @@
 # 💫 My interests:
 💬 Hardware/Embedded system engineering. 
 💬 Informations system engineering. 
+💬 Electronics
 
 ⚡ Available monday, wednesday and friday: my discord pseudo: __aymane __ (without space between letter 'e' and the underscore)
 
